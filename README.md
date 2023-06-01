@@ -3,4 +3,6 @@ Basic Web API Examples of NodeServices
 
 ## Related Blog Post
 
-You can read more about the contents of this repo in [this blog post entitled "NodeServices: Where Javascript and .NET Meet Back on the Other Side"](http://rion.io/nodeservices-where-javascript-and-net-meet-back-on-the-other-side).
+https://rion.io/2017/08/22/nodeservices-where-javascript-and-net-meet-back-on-the-other-side/
+
+https://social.technet.microsoft.com/wiki/contents/articles/37972.execute-javascript-code-from-asp-net-core-back-end-using-nodeservices.aspx
